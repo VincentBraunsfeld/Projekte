@@ -12,7 +12,7 @@ REST-Projekt: Dieses Projekt demonstriert meine Fähigkeiten, eine Java-REST-Anw
 
 MongoDB-Projekt: Hierbei wurde eine Verbindung zur MongoDB hergestellt. Mit Konsoleneingaben werden Daten aus der Datenbank gelesen und gespeichert.
 
-Ich bedanke mich herzlich für Ihr Interesse und stehe für etwaige Fragen zur Verfügung.
+Ich bedanke mich herzlich für Ihr Interesse und stehe für weitere Fragen gerne zur Verfügung.
 
 Mit freundlichen Grüßen,
 
